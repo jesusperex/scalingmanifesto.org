@@ -1,2 +1,0 @@
-# scalingmanifesto.org
-scalingmanifesto.org
